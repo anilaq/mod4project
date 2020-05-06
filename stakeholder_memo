@@ -1,0 +1,22 @@
+# Business Understanding: 
+The Diagnostic imaging market includes MRIs, ultrasounds, CTs, X-rays, SPECT, mammography, Hybrid PET, just to name a few. It is unclear how big the market is given that different sources estimate anywhere from $10 billion to $22 billion. Regardless, diagnostic imaging is a vast industry which is very profitable. 
+
+X-ray images account for the largest of this market share. 
+
+Hospitals tend to garner the most profits off of diagnostic imaging. However, 
+
+Pneumonia accounts fo 15% of all deaths of children under the age of 5. It can be caused by bacterial infections, viruses or parasites. Pneumonia caused by bacteria can be treated with antibiotics 
+
+# Data Understanding 
+
+From the data I hoped to train the images to correctly identify which patients did and did not have pneumonia. Through data augmentation I was able to identify a model that had reduced overfitting dramatically which is a big problem in convolutional neural networks but also I was able to identify how accurate my model was. 
+
+Although my model works it is not hugely accurate. If I were to conduct more model training and gain more insight on the diagnostic image market alongside treatment and recovery I would be able to be more precise. 
+
+#Moving Forward: 
+
+From the models you will see within the CNN notebook, please be aware that the problem at hand is not small and needs to be solved. 
+
+Consider creating a data analytics department that will help to track cases and analyse images accordingly. 
+
+Also consider second opinions by partnering with medical research hospitals in India. 
